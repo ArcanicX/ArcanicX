@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArcanicX
+- 👋 Hi, I’m Mar'ie Muhammad Fikri
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
